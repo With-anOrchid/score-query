@@ -217,127 +217,122 @@
     </div>
 
     <script>
-        // 示例数据 - 在实际使用中应该从scores.json加载
-        const scoresData = {
-            "students": [
-                {
-                    "name": "仝仲杰",
-                    "id": "2000013703",
-                    "scores": {
-                        "q3": {"option": "B", "score": 8},
-                        "q4": {"option": "C", "score": 8},
-                        "q5": {"option": "B", "score": 0},
-                        "q6": {"option": "D", "score": 0},
-                        "q7": {"option": "ACD", "score": 9},
-                        "q8": {"option": "AB", "score": 12},
-                        "q9": {"option": "BC", "score": 8},
-                        "q10": {"option": "BC", "score": 6}
-                    },
-                    "total": 71
-                },
-                {
-                    "name": "安德鲁",
-                    "id": "2000091816",
-                    "scores": {
-                        "q3": {"option": "B", "score": 8},
-                        "q4": {"option": "D", "score": 0},
-                        "q5": {"option": "A", "score": 8},
-                        "q6": {"option": "C", "score": 8},
-                        "q7": {"option": "AB", "score": 6},
-                        "q8": {"option": "AB", "score": 12},
-                        "q9": {"option": "BD", "score": 8},
-                        "q10": {"option": "AB", "score": 6}
-                    },
-                    "total": 76
+    // 加载成绩数据
+    let scoresData = null;
+    
+    // 页面加载时获取数据
+    document.addEventListener('DOMContentLoaded', function() {
+        fetch('./scores.json')
+            .then(response => {
+                if (!response.ok) {
+                    throw new Error('网络响应不正常');
                 }
-                // 这里应该包含所有学生的数据
-            ],
-            "correctAnswers": {
-                "q3": "B",
-                "q4": "C",
-                "q5": "A",
-                "q6": "C",
-                "q7": "ABCD",
-                "q8": "AB",
-                "q9": "BCD",
-                "q10": "ABCD"
-            }
-        };
+                return response.json();
+            })
+            .then(data => {
+                scoresData = data;
+                console.log('成绩数据加载成功，共', data.students.length, '名学生');
+            })
+            .catch(error => {
+                console.error('加载数据失败:', error);
+                alert('数据加载失败，请刷新页面重试');
+            });
+    });
 
-        // 处理表单提交
-        document.getElementById('searchForm').addEventListener('submit', function(e) {
-            e.preventDefault();
+    // 处理表单提交
+    document.getElementById('searchForm').addEventListener('submit', function(e) {
+        e.preventDefault();
+        
+        const name = document.getElementById('name').value.trim();
+        const id = document.getElementById('id').value.trim();
+        
+        if (!scoresData) {
+            alert('数据正在加载中，请稍后再试');
+            return;
+        }
+        
+        // 查找学生 - 添加更灵活的匹配
+        const student = scoresData.students.find(s => 
+            s.name === name && s.id === id
+        );
+        
+        const resultSection = document.getElementById('resultSection');
+        const studentInfo = document.getElementById('studentInfo');
+        const scoreBody = document.getElementById('scoreBody');
+        
+        if (student) {
+            // 显示学生信息
+            studentInfo.innerHTML = `
+                <h3>${student.name} 同学</h3>
+                <p>学号: ${student.id}</p>
+                <p style="font-size: 1.2em; margin-top: 10px;">总分: <strong>${student.total}</strong></p>
+            `;
             
-            const name = document.getElementById('name').value.trim();
-            const id = document.getElementById('id').value.trim();
+            // 显示成绩详情
+            scoreBody.innerHTML = '';
+            const questions = ['q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'q10'];
             
-            // 查找学生
-            const student = scoresData.students.find(s => 
-                s.name === name && s.id === id
-            );
-            
-            const resultSection = document.getElementById('resultSection');
-            const studentInfo = document.getElementById('studentInfo');
-            const scoreBody = document.getElementById('scoreBody');
-            
-            if (student) {
-                // 显示学生信息
-                studentInfo.innerHTML = `
-                    <h3>${student.name} 同学</h3>
-                    <p>学号: ${student.id}</p>
-                    <p style="font-size: 1.2em; margin-top: 10px;">总分: <strong>${student.total}</strong></p>
+            questions.forEach(q => {
+                const questionNum = q.substring(1);
+                const studentAnswer = student.scores[q].option;
+                const studentScore = student.scores[q].score;
+                const correctAnswer = scoresData.correctAnswers[q];
+                // 对于多选题，我们需要特殊处理比较逻辑
+                const isCorrect = compareAnswers(studentAnswer, correctAnswer);
+                
+                const row = document.createElement('tr');
+                row.innerHTML = `
+                    <td>第${questionNum}题</td>
+                    <td class="${isCorrect ? 'correct' : 'incorrect'}">${studentAnswer}</td>
+                    <td>${studentScore}</td>
+                    <td class="correct">${correctAnswer}</td>
+                    <td class="${isCorrect ? 'correct' : 'incorrect'}">
+                        ${isCorrect ? '正确' : '错误'}
+                    </td>
                 `;
-                
-                // 显示成绩详情
-                scoreBody.innerHTML = '';
-                const questions = ['q3', 'q4', 'q5', 'q6', 'q7', 'q8', 'q9', 'q10'];
-                
-                questions.forEach(q => {
-                    const questionNum = q.substring(1);
-                    const studentAnswer = student.scores[q].option;
-                    const studentScore = student.scores[q].score;
-                    const correctAnswer = scoresData.correctAnswers[q];
-                    const isCorrect = studentAnswer === correctAnswer;
-                    
-                    const row = document.createElement('tr');
-                    row.innerHTML = `
-                        <td>第${questionNum}题</td>
-                        <td class="${isCorrect ? 'correct' : 'incorrect'}">${studentAnswer}</td>
-                        <td>${studentScore}</td>
-                        <td class="correct">${correctAnswer}</td>
-                        <td class="${isCorrect ? 'correct' : 'incorrect'}">
-                            ${isCorrect ? '正确' : '错误'}
-                        </td>
-                    `;
-                    scoreBody.appendChild(row);
-                });
-                
-                // 添加总分行
-                const totalRow = document.createElement('tr');
-                totalRow.className = 'total-score';
-                totalRow.innerHTML = `
-                    <td colspan="2">总分</td>
-                    <td colspan="3">${student.total}</td>
-                `;
-                scoreBody.appendChild(totalRow);
-                
-                resultSection.style.display = 'block';
-                
-                // 滚动到结果区域
-                resultSection.scrollIntoView({ behavior: 'smooth' });
-                
-            } else {
-                resultSection.style.display = 'block';
-                studentInfo.innerHTML = '';
-                scoreBody.innerHTML = `
-                    <tr>
-                        <td colspan="5" class="error-message">
-                            未找到匹配的学生信息，请检查姓名和学号是否正确
-                        </td>
-                    </tr>
-                `;
-            }
-        });
-    </script>
+                scoreBody.appendChild(row);
+            });
+            
+            // 添加总分行
+            const totalRow = document.createElement('tr');
+            totalRow.className = 'total-score';
+            totalRow.innerHTML = `
+                <td colspan="2">总分</td>
+                <td colspan="3">${student.total}</td>
+            `;
+            scoreBody.appendChild(totalRow);
+            
+            resultSection.style.display = 'block';
+            
+            // 滚动到结果区域
+            resultSection.scrollIntoView({ behavior: 'smooth' });
+            
+        } else {
+            resultSection.style.display = 'block';
+            studentInfo.innerHTML = '';
+            scoreBody.innerHTML = `
+                <tr>
+                    <td colspan="5" class="error-message">
+                        未找到匹配的学生信息，请检查姓名和学号是否正确<br>
+                        已加载 ${scoresData.students.length} 名学生数据
+                    </td>
+                </tr>
+            `;
+        }
+    });
+
+    // 比较答案的函数（处理多选题）
+    function compareAnswers(studentAnswer, correctAnswer) {
+        // 如果都是单选，直接比较
+        if (studentAnswer.length === 1 && correctAnswer.length === 1) {
+            return studentAnswer === correctAnswer;
+        }
+        
+        // 对于多选题，将答案按字符排序后比较
+        const sortedStudent = studentAnswer.split('').sort().join('');
+        const sortedCorrect = correctAnswer.split('').sort().join('');
+        return sortedStudent === sortedCorrect;
+    }
+</script>
 </body>
 </html>
