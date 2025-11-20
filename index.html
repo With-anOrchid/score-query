@@ -175,6 +175,76 @@
                 padding: 10px 5px;
             }
         }
+        
+        /* 找到现有的表格样式，添加固定布局属性 */
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+            table-layout: fixed; /* 添加这一行 */
+        }
+        
+        /* 找到现有的th, td样式，添加换行属性 */
+        th, td {
+            padding: 12px 15px;
+            text-align: left;
+            border-bottom: 1px solid #eee;
+            word-wrap: break-word; /* 添加这一行 */
+        }
+        
+        /* 在现有CSS中添加表格列宽设置（放在th, td样式后面） */
+        /* 为表格列设置宽度比例 */
+        th:nth-child(1), td:nth-child(1) { /* 周次列 */
+            width: 25%;
+        }
+        th:nth-child(2), td:nth-child(2) { /* 考勤状态列 */
+            width: 35%;
+        }
+        th:nth-child(3), td:nth-child(3) { /* 测验成绩列 */
+            width: 40%;
+        }
+        
+        /* 找到现有的移动端媒体查询，在里面添加移动端表格样式 */
+        @media (max-width: 600px) {
+            .container {
+                border-radius: 0;
+            }
+            
+            .query-section, .result-section {
+                padding: 20px 15px;
+            }
+            
+            th, td {
+                padding: 10px 8px;
+                font-size: 14px; /* 添加这一行 */
+            }
+            
+            /* 在媒体查询内添加移动端表格列宽调整 */
+            th:nth-child(1), td:nth-child(1) { /* 周次列 */
+                width: 20%;
+            }
+            th:nth-child(2), td:nth-child(2) { /* 考勤状态列 */
+                width: 40%;
+            }
+            th:nth-child(3), td:nth-child(3) { /* 测验成绩列 */
+                width: 40%;
+            }
+            
+            /* 在媒体查询内添加移动端表格标题简化 */
+            th:nth-child(1)::after {
+                content: "周次";
+            }
+            th:nth-child(2)::after {
+                content: "考勤";
+            }
+            th:nth-child(3)::after {
+                content: "测验";
+            }
+            
+            th {
+                font-size: 12px; /* 添加这一行 */
+            }
+        }
     </style>
 </head>
 <body>
