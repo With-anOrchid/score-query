@@ -1,3953 +1,4431 @@
-{
-  "students": [
-    {
-      "name": "仝仲杰",
-      "id": "2000013703",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 71
-    },
-    {
-      "name": "安德鲁",
-      "id": "2000091816",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "D",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BD",
-          "score": 8
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 76
-    },
-    {
-      "name": "包睿哲",
-      "id": "2100014925",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 84
-    },
-    {
-      "name": "李俊良",
-      "id": "2100014927",
-      "scores": {
-        "q3": {
-          "option": "C",
-          "score": 0
-        },
-        "q4": {
-          "option": "B",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "BD",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 63
-    },
-    {
-      "name": "施紫茵",
-      "id": "2100014952",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "B",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 80
-    },
-    {
-      "name": "陈博",
-      "id": "2100092305",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "D",
-          "score": 0
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "A",
-          "score": 3
-        },
-        "q8": {
-          "option": "BC",
-          "score": 0
-        },
-        "q9": {
-          "option": "C",
-          "score": 4
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 41
-    },
-    {
-      "name": "宋卓洋",
-      "id": "2200011415",
-      "scores": {
-        "q3": {
-          "option": "C",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 75
-    },
-    {
-      "name": "杨旸",
-      "id": "2200011430",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABCD",
-          "score": 12
-        }
-      },
-      "total": 70
-    },
-    {
-      "name": "王若熙",
-      "id": "2200011446",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ACD",
-          "score": 9
-        }
-      },
-      "total": 91
-    },
-    {
-      "name": "徐铭宇",
-      "id": "2200011502",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 83
-    },
-    {
-      "name": "郑岳晨阳",
-      "id": "2200012152",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 78
-    },
-    {
-      "name": "赵希睿",
-      "id": "2200012864",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 70
-    },
-    {
-      "name": "王易乾",
-      "id": "2200014904",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AD",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 82
-    },
-    {
-      "name": "袁黛茜",
-      "id": "2200014905",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 83
-    },
-    {
-      "name": "倪源辰",
-      "id": "2200014906",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "D",
-          "score": 0
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 67
-    },
-    {
-      "name": "何慧琳",
-      "id": "2200014917",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 82
-    },
-    {
-      "name": "周航羽",
-      "id": "2200014927",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "ACD",
-          "score": 9
-        }
-      },
-      "total": 90
-    },
-    {
-      "name": "胡晨欣",
-      "id": "2200014932",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ACD",
-          "score": 9
-        }
-      },
-      "total": 86
-    },
-    {
-      "name": "陈思伽",
-      "id": "2200014959",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "ABC",
-          "score": 4
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 75
-    },
-    {
-      "name": "白玛钰珍",
-      "id": "2200014962",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABC",
-          "score": 9
-        }
-      },
-      "total": 94
-    },
-    {
-      "name": "邹富兴",
-      "id": "2200015140",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "ABCD",
-          "score": 8
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 84
-    },
-    {
-      "name": "屈尘骓",
-      "id": "2300011324",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 80
-    },
-    {
-      "name": "和宜周",
-      "id": "2300011342",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "B",
-          "score": 0
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 72
-    },
-    {
-      "name": "王之恒",
-      "id": "2300011558",
-      "scores": {
-        "q3": {
-          "option": "D",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 65
-    },
-    {
-      "name": "李中烨",
-      "id": "2300011740",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 70
-    },
-    {
-      "name": "梁天睿",
-      "id": "2300012808",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 77
-    },
-    {
-      "name": "陈禹铭",
-      "id": "2300012861",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 94
-    },
-    {
-      "name": "赵海涵",
-      "id": "2300013922",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "D",
-          "score": 4
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 67
-    },
-    {
-      "name": "冯海敏",
-      "id": "2300014226",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "CD",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABC",
-          "score": 9
-        }
-      },
-      "total": 82
-    },
-    {
-      "name": "张逸凡",
-      "id": "2300014522",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 88
-    },
-    {
-      "name": "王墨涵",
-      "id": "2300014570",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 71
-    },
-    {
-      "name": "苏昱峰",
-      "id": "2300014902",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "A",
-          "score": 0
-        },
-        "q5": {
-          "option": "C",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 69
-    },
-    {
-      "name": "陈茁",
-      "id": "2300014923",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 84
-    },
-    {
-      "name": "李晓鹏",
-      "id": "2300014956",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "A",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 77
-    },
-    {
-      "name": "曹荣乐",
-      "id": "2300014958",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "A",
-          "score": 6
-        },
-        "q9": {
-          "option": "CD",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 79
-    },
-    {
-      "name": "周子越",
-      "id": "2300014959",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AC",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "CD",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 87
-    },
-    {
-      "name": "蒋梦烨",
-      "id": "2300014962",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 79
-    },
-    {
-      "name": "苏乐儿",
-      "id": "2300014965",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 81
-    },
-    {
-      "name": "李企淳",
-      "id": "2300016327",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 74
-    },
-    {
-      "name": "南浦知帰",
-      "id": "2300092302",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "B",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "A",
-          "score": 3
-        },
-        "q8": {
-          "option": "BC",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 60
-    },
-    {
-      "name": "李清莲",
-      "id": "2300094307",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "ABC",
-          "score": 4
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 67
-    },
-    {
-      "name": "蔺赓泽",
-      "id": "2400010971",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 89
-    },
-    {
-      "name": "陈怀瑜",
-      "id": "2400010985",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 91
-    },
-    {
-      "name": "韩宇宸",
-      "id": "2400010989",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 83
-    },
-    {
-      "name": "王贤瑞",
-      "id": "2400011024",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AD",
-          "score": 0
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 59
-    },
-    {
-      "name": "林柏豪",
-      "id": "2400011207",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "A",
-          "score": 3
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "CD",
-          "score": 8
-        },
-        "q10": {
-          "option": "AC",
-          "score": 6
-        }
-      },
-      "total": 73
-    },
-    {
-      "name": "刘聃",
-      "id": "2400011304",
-      "scores": {
-        "q3": {
-          "option": "C",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "A",
-          "score": 3
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 80
-    },
-    {
-      "name": "翁宇阳",
-      "id": "2400011452",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "B",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "C",
-          "score": 3
-        }
-      },
-      "total": 79
-    },
-    {
-      "name": "顾博宇",
-      "id": "2400011581",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 89
-    },
-    {
-      "name": "郑翰永",
-      "id": "2400011761",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABC",
-          "score": 9
-        },
-        "q8": {
-          "option": "BC",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 66
-    },
-    {
-      "name": "傅玉成",
-      "id": "2400011798",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 78
-    },
-    {
-      "name": "唐诗棋",
-      "id": "2400012158",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "AC",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 63
-    },
-    {
-      "name": "王佑名",
-      "id": "2400012295",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABC",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "nan",
-          "score": 0
-        },
-        "q10": {
-          "option": "nan",
-          "score": 0
-        }
-      },
-      "total": 59
-    },
-    {
-      "name": "张洺瑜",
-      "id": "2400012603",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 91
-    },
-    {
-      "name": "徐艺匀",
-      "id": "2400013260",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "D",
-          "score": 0
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AC",
-          "score": 6
-        },
-        "q8": {
-          "option": "B",
-          "score": 6
-        },
-        "q9": {
-          "option": "CD",
-          "score": 8
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 43
-    },
-    {
-      "name": "刘丛竹",
-      "id": "2400013755",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "A",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 75
-    },
-    {
-      "name": "王奕菲",
-      "id": "2400014957",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AC",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 80
-    },
-    {
-      "name": "陈欣怡",
-      "id": "2400015415",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 86
-    },
-    {
-      "name": "刘文谨",
-      "id": "2400015487",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "AC",
-          "score": 0
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 65
-    },
-    {
-      "name": "齐羽丰",
-      "id": "2400015886",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "AC",
-          "score": 0
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 65
-    },
-    {
-      "name": "蒋宇",
-      "id": "2400016640",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 83
-    },
-    {
-      "name": "张吟聆",
-      "id": "2400017403",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "B",
-          "score": 4
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 72
-    },
-    {
-      "name": "王淇渲",
-      "id": "2400018415",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 97
-    },
-    {
-      "name": "李丰喆",
-      "id": "2400912016",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "A",
-          "score": 6
-        },
-        "q9": {
-          "option": "CD",
-          "score": 8
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 68
-    },
-    {
-      "name": "李基皓",
-      "id": "2400912017",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "A",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "BC",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 63
-    },
-    {
-      "name": "孔凡",
-      "id": "2410108213",
-      "scores": {
-        "q3": {
-          "option": "D",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ACD",
-          "score": 9
-        }
-      },
-      "total": 64
-    },
-    {
-      "name": "张震",
-      "id": "2410124242",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "B",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 76
-    },
-    {
-      "name": "陆亦铭",
-      "id": "2500011011",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "BC",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 71
-    },
-    {
-      "name": "贾雯博",
-      "id": "2500011044",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 91
-    },
-    {
-      "name": "倪梓阳",
-      "id": "2500011439",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AC",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 83
-    },
-    {
-      "name": "王靖翔",
-      "id": "2500011454",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 85
-    },
-    {
-      "name": "韩学晨",
-      "id": "2500011459",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ACD",
-          "score": 9
-        }
-      },
-      "total": 85
-    },
-    {
-      "name": "王千一",
-      "id": "2500011493",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABCD",
-          "score": 12
-        }
-      },
-      "total": 100
-    },
-    {
-      "name": "王维石",
-      "id": "2500012307",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "A",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 77
-    },
-    {
-      "name": "周琳萱",
-      "id": "2500012411",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AD",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 83
-    },
-    {
-      "name": "马健",
-      "id": "2500012817",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABCD",
-          "score": 12
-        }
-      },
-      "total": 100
-    },
-    {
-      "name": "于俊龙",
-      "id": "2500013046",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AD",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 71
-    },
-    {
-      "name": "马语辰",
-      "id": "2500013066",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "B",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 85
-    },
-    {
-      "name": "李根智",
-      "id": "2500013196",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 86
-    },
-    {
-      "name": "李乐天丞",
-      "id": "2500013203",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 81
-    },
-    {
-      "name": "王鑫雨",
-      "id": "2500016281",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 75
-    },
-    {
-      "name": "张翔",
-      "id": "2500016614",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 71
-    },
-    {
-      "name": "张兴悦",
-      "id": "2500016932",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 85
-    },
-    {
-      "name": "杨砺寒",
-      "id": "2500017815",
-      "scores": {
-        "q3": {
-          "option": "C",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "A",
-          "score": 0
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 54
-    },
-    {
-      "name": "彭嘉涵",
-      "id": "2500018402",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "B",
-          "score": 3
-        }
-      },
-      "total": 77
-    },
-    {
-      "name": "赵彦燃",
-      "id": "2500018508",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 78
-    },
-    {
-      "name": "秧孝慈",
-      "id": "2500091806",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "A",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABD",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BCD",
-          "score": 9
-        }
-      },
-      "total": 76
-    },
-    {
-      "name": "马子涵",
-      "id": "2500931107",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "D",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABCD",
-          "score": 12
-        }
-      },
-      "total": 89
-    },
-    {
-      "name": "陈昫君",
-      "id": "2500931114",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "A",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "AB",
-          "score": 0
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 57
-    },
-    {
-      "name": "杜冰鑫",
-      "id": "2500931121",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "ABD",
-          "score": 6
-        },
-        "q9": {
-          "option": "AC",
-          "score": 0
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 57
-    },
-    {
-      "name": "王奕晴",
-      "id": "2510124209",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "A",
-          "score": 6
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "AC",
-          "score": 6
-        }
-      },
-      "total": 73
-    },
-    {
-      "name": "胡耀宇",
-      "id": "2510301105",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "C",
-          "score": 0
-        },
-        "q6": {
-          "option": "A",
-          "score": 0
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "AC",
-          "score": 0
-        },
-        "q10": {
-          "option": "AD",
-          "score": 6
-        }
-      },
-      "total": 63
-    },
-    {
-      "name": "王知宜",
-      "id": "2510301117",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "BD",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 74
-    },
-    {
-      "name": "翟艺岚",
-      "id": "2510301141",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ACD",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 86
-    },
-    {
-      "name": "钱知源",
-      "id": "2510301317",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "C",
-          "score": 8
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "B",
-          "score": 6
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 79
-    },
-    {
-      "name": "梁奥鑫",
-      "id": "2510301324",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AB",
-          "score": 6
-        },
-        "q8": {
-          "option": "ABC",
-          "score": 6
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "AB",
-          "score": 6
-        }
-      },
-      "total": 74
-    },
-    {
-      "name": "耿潇扬",
-      "id": "2510303107",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BC",
-          "score": 8
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 74
-    },
-    {
-      "name": "张靖韩",
-      "id": "2510305108",
-      "scores": {
-        "q3": {
-          "option": "A",
-          "score": 0
-        },
-        "q4": {
-          "option": "B",
-          "score": 0
-        },
-        "q5": {
-          "option": "A",
-          "score": 8
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABC",
-          "score": 9
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "ABD",
-          "score": 9
-        }
-      },
-      "total": 70
-    },
-    {
-      "name": "庄子宁",
-      "id": "2510306235",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "AC",
-          "score": 6
-        },
-        "q8": {
-          "option": "BD",
-          "score": 0
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "BC",
-          "score": 6
-        }
-      },
-      "total": 60
-    },
-    {
-      "name": "贾博雅",
-      "id": "2510307419",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "C",
-          "score": 8
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "D",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "BCD",
-          "score": 12
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 78
-    },
-    {
-      "name": "吴羿筱",
-      "id": "北京外国语大学",
-      "scores": {
-        "q3": {
-          "option": "B",
-          "score": 8
-        },
-        "q4": {
-          "option": "D",
-          "score": 0
-        },
-        "q5": {
-          "option": "B",
-          "score": 0
-        },
-        "q6": {
-          "option": "B",
-          "score": 0
-        },
-        "q7": {
-          "option": "ABCD",
-          "score": 12
-        },
-        "q8": {
-          "option": "AB",
-          "score": 12
-        },
-        "q9": {
-          "option": "ABC",
-          "score": 4
-        },
-        "q10": {
-          "option": "BD",
-          "score": 6
-        }
-      },
-      "total": 62
-    }
-  ],
-  "correctAnswers": {
-    "q3": "B",
-    "q4": "C",
-    "q5": "A",
-    "q6": "C",
-    "q7": "ABCD",
-    "q8": "AB",
-    "q9": "BCD",
-    "q10": "ABCD"
+[
+  {
+    "student_id": "2000013703",
+    "name": "仝仲杰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 94.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:36.967499"
+  },
+  {
+    "student_id": "2000091816",
+    "name": "安德鲁",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 40.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 76.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:36.974865"
+  },
+  {
+    "student_id": "2100014925",
+    "name": "包睿哲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 84.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:36.976280"
+  },
+  {
+    "student_id": "2100014927",
+    "name": "李俊良",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:36.977471"
+  },
+  {
+    "student_id": "2100014952",
+    "name": "施紫茵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 92.0
+      },
+      {
+        "week": 8,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:36.978754"
+  },
+  {
+    "student_id": "2100092305",
+    "name": "陈博",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 41.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 94.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:36.979965"
+  },
+  {
+    "student_id": "2200011415",
+    "name": "宋卓洋",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:36.981140"
+  },
+  {
+    "student_id": "2200011430",
+    "name": "杨旸",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:36.982460"
+  },
+  {
+    "student_id": "2200011446",
+    "name": "王若熙",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:36.995881"
+  },
+  {
+    "student_id": "2200011502",
+    "name": "徐铭宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:36.999643"
+  },
+  {
+    "student_id": "2200012152",
+    "name": "郑岳晨阳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 92.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "请假",
+        "score": 86.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.009676"
+  },
+  {
+    "student_id": "2200012864",
+    "name": "赵希睿",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.013256"
+  },
+  {
+    "student_id": "2200014904",
+    "name": "王易乾",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 82.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.016702"
+  },
+  {
+    "student_id": "2200014905",
+    "name": "袁黛茜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 94.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.026766"
+  },
+  {
+    "student_id": "2200014906",
+    "name": "倪源辰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 67.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.030261"
+  },
+  {
+    "student_id": "2200014917",
+    "name": "何慧琳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 82.0
+      },
+      {
+        "week": 12,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.033668"
+  },
+  {
+    "student_id": "2200014927",
+    "name": "周航羽",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 90.0
+      },
+      {
+        "week": 12,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "缺勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "缺勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.043858"
+  },
+  {
+    "student_id": "2200014932",
+    "name": "胡晨欣",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.047396"
+  },
+  {
+    "student_id": "2200014959",
+    "name": "陈思伽",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.050861"
+  },
+  {
+    "student_id": "2200014962",
+    "name": "白玛钰珍",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 95.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.060447"
+  },
+  {
+    "student_id": "2200015140",
+    "name": "邹富兴",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 84.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.064034"
+  },
+  {
+    "student_id": "2200017419",
+    "name": "景璧辉",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.067467"
+  },
+  {
+    "student_id": "2300011324",
+    "name": "屈尘骓",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.078430"
+  },
+  {
+    "student_id": "2300011342",
+    "name": "和宜周",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 72.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.081996"
+  },
+  {
+    "student_id": "2300011558",
+    "name": "王之恒",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 65.0
+      },
+      {
+        "week": 12,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.090586"
+  },
+  {
+    "student_id": "2300011740",
+    "name": "李中烨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.094614"
+  },
+  {
+    "student_id": "2300012808",
+    "name": "梁天睿",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 84.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.098483"
+  },
+  {
+    "student_id": "2300012861",
+    "name": "陈禹铭",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.108135"
+  },
+  {
+    "student_id": "2300013922",
+    "name": "赵海涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 67.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.111832"
+  },
+  {
+    "student_id": "2300014226",
+    "name": "冯海敏",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 82.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.115727"
+  },
+  {
+    "student_id": "2300014522",
+    "name": "张逸凡",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 88.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.125659"
+  },
+  {
+    "student_id": "2300014570",
+    "name": "王墨涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.129896"
+  },
+  {
+    "student_id": "2300014902",
+    "name": "苏昱峰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 92.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 69.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 79.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.134040"
+  },
+  {
+    "student_id": "2300014923",
+    "name": "陈茁",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 84.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 95.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.144295"
+  },
+  {
+    "student_id": "2300014956",
+    "name": "李晓鹏",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.147957"
+  },
+  {
+    "student_id": "2300014958",
+    "name": "曹荣乐",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 95.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.158022"
+  },
+  {
+    "student_id": "2300014959",
+    "name": "周子越",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 87.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.162131"
+  },
+  {
+    "student_id": "2300014962",
+    "name": "蒋梦烨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.166132"
+  },
+  {
+    "student_id": "2300014965",
+    "name": "苏乐儿",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 81.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.175442"
+  },
+  {
+    "student_id": "2300016327",
+    "name": "李企淳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 94.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.179735"
+  },
+  {
+    "student_id": "2300092302",
+    "name": "南浦知帰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 60.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.183709"
+  },
+  {
+    "student_id": "2300094307",
+    "name": "李清莲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 67.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "请假",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.194042"
+  },
+  {
+    "student_id": "2400010971",
+    "name": "蔺赓泽",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 89.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.197881"
+  },
+  {
+    "student_id": "2400010985",
+    "name": "陈怀瑜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.201779"
+  },
+  {
+    "student_id": "2400010989",
+    "name": "韩宇宸",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.212235"
+  },
+  {
+    "student_id": "2400011024",
+    "name": "王贤瑞",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 59.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.215869"
+  },
+  {
+    "student_id": "2400011207",
+    "name": "林柏豪",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 73.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 95.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.225432"
+  },
+  {
+    "student_id": "2400011304",
+    "name": "刘聃",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.229328"
+  },
+  {
+    "student_id": "2400011452",
+    "name": "翁宇阳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.232887"
+  },
+  {
+    "student_id": "2400011581",
+    "name": "顾博宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 89.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.242423"
+  },
+  {
+    "student_id": "2400011761",
+    "name": "郑翰永",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 66.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.246162"
+  },
+  {
+    "student_id": "2400011798",
+    "name": "傅玉成",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.249972"
+  },
+  {
+    "student_id": "2400012158",
+    "name": "唐诗棋",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.259852"
+  },
+  {
+    "student_id": "2400012295",
+    "name": "王佑名",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 59.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.263457"
+  },
+  {
+    "student_id": "2400012603",
+    "name": "张洺瑜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.267067"
+  },
+  {
+    "student_id": "2400013260",
+    "name": "徐艺匀",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 43.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.276789"
+  },
+  {
+    "student_id": "2400013755",
+    "name": "刘丛竹",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.280597"
+  },
+  {
+    "student_id": "2400014957",
+    "name": "王奕菲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.284083"
+  },
+  {
+    "student_id": "2400015415",
+    "name": "陈欣怡",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.292966"
+  },
+  {
+    "student_id": "2400015487",
+    "name": "刘文谨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 65.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.296671"
+  },
+  {
+    "student_id": "2400015886",
+    "name": "齐羽丰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 65.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.300198"
+  },
+  {
+    "student_id": "2400016640",
+    "name": "蒋宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.309045"
+  },
+  {
+    "student_id": "2400017403",
+    "name": "张吟聆",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 72.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.313182"
+  },
+  {
+    "student_id": "2400018415",
+    "name": "王淇渲",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.317246"
+  },
+  {
+    "student_id": "2400912016",
+    "name": "李丰喆",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 68.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.326961"
+  },
+  {
+    "student_id": "2400912017",
+    "name": "李基皓",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.331041"
+  },
+  {
+    "student_id": "2410108213",
+    "name": "孔凡",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 64.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.335085"
+  },
+  {
+    "student_id": "2410124242",
+    "name": "张震",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 76.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.344652"
+  },
+  {
+    "student_id": "2500011011",
+    "name": "陆亦铭",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 75.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.348794"
+  },
+  {
+    "student_id": "2500011044",
+    "name": "贾雯博",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 91.0
+      },
+      {
+        "week": 12,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.358886"
+  },
+  {
+    "student_id": "2500011130",
+    "name": "赵东兴",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.362991"
+  },
+  {
+    "student_id": "2500011439",
+    "name": "倪梓阳",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 93.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.367014"
+  },
+  {
+    "student_id": "2500011454",
+    "name": "王靖翔",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 77.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.377106"
+  },
+  {
+    "student_id": "2500011459",
+    "name": "韩学晨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.380760"
+  },
+  {
+    "student_id": "2500011493",
+    "name": "王千一",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.384747"
+  },
+  {
+    "student_id": "2500012307",
+    "name": "王维石",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 80.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 95.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.394217"
+  },
+  {
+    "student_id": "2500012411",
+    "name": "周琳萱",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 83.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.398325"
+  },
+  {
+    "student_id": "2500012817",
+    "name": "马健",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.407733"
+  },
+  {
+    "student_id": "2500013046",
+    "name": "于俊龙",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.412007"
+  },
+  {
+    "student_id": "2500013066",
+    "name": "马语辰",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.416113"
+  },
+  {
+    "student_id": "2500013196",
+    "name": "李根智",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.425229"
+  },
+  {
+    "student_id": "2500013203",
+    "name": "李乐天丞",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 81.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.429451"
+  },
+  {
+    "student_id": "2500016281",
+    "name": "王鑫雨",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 75.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.433544"
+  },
+  {
+    "student_id": "2500016614",
+    "name": "张翔",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 71.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 91.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.444060"
+  },
+  {
+    "student_id": "2500016932",
+    "name": "张兴悦",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 85.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 85.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.448253"
+  },
+  {
+    "student_id": "2500017815",
+    "name": "杨砺寒",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 54.0
+      },
+      {
+        "week": 12,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 78.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.457574"
+  },
+  {
+    "student_id": "2500018402",
+    "name": "彭嘉涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 77.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.461771"
+  },
+  {
+    "student_id": "2500018508",
+    "name": "赵彦燃",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "缺勤",
+        "score": null
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.465875"
+  },
+  {
+    "student_id": "2500091806",
+    "name": "秧孝慈",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 76.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.476164"
+  },
+  {
+    "student_id": "2500931107",
+    "name": "马子涵",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 89.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 99.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.479840"
+  },
+  {
+    "student_id": "2500931114",
+    "name": "陈昫君",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 57.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.483824"
+  },
+  {
+    "student_id": "2500931121",
+    "name": "杜冰鑫",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 57.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.493309"
+  },
+  {
+    "student_id": "2510124209",
+    "name": "王奕晴",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 73.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.497446"
+  },
+  {
+    "student_id": "2510301105",
+    "name": "胡耀宇",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 63.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 88.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.501434"
+  },
+  {
+    "student_id": "2510301117",
+    "name": "王知宜",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.510967"
+  },
+  {
+    "student_id": "2510301141",
+    "name": "翟艺岚",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 86.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.515035"
+  },
+  {
+    "student_id": "2510301317",
+    "name": "钱知源",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 79.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 90.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.524652"
+  },
+  {
+    "student_id": "2510301324",
+    "name": "梁奥鑫",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 77.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.528273"
+  },
+  {
+    "student_id": "2510303107",
+    "name": "耿潇扬",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 74.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 96.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 93.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.532306"
+  },
+  {
+    "student_id": "2510305108",
+    "name": "张靖韩",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 70.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 89.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.542006"
+  },
+  {
+    "student_id": "2510306235",
+    "name": "庄子宁",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 98.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 60.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 92.0
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.546087"
+  },
+  {
+    "student_id": "2510307419",
+    "name": "贾博雅",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 94.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 78.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": 86.0
+      }
+    ],
+    "final_paper": "已提交（待评分）",
+    "last_updated": "2026-01-08T18:27:37.550109"
+  },
+  {
+    "student_id": "北京外国语大学",
+    "name": "吴羿筱",
+    "attendance": [
+      {
+        "week": 3,
+        "status": "请假",
+        "score": null
+      },
+      {
+        "week": 6,
+        "status": "出勤",
+        "score": 95.0
+      },
+      {
+        "week": 8,
+        "status": "出勤",
+        "score": 100.0
+      },
+      {
+        "week": 10,
+        "status": "出勤",
+        "score": 62.0
+      },
+      {
+        "week": 12,
+        "status": "出勤",
+        "score": null
+      },
+      {
+        "week": 14,
+        "status": "出勤",
+        "score": 97.0
+      },
+      {
+        "week": 16,
+        "status": "出勤",
+        "score": null
+      }
+    ],
+    "final_paper": 0,
+    "last_updated": "2026-01-08T18:27:37.560587"
   }
-}
+]
